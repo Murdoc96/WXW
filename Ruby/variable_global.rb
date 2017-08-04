@@ -14,7 +14,8 @@ class Class2
 end
 
 
-class1obj = Class1.new
+class1obj = Class1.new()
 class1obj.print_global
-class2obj = Class2.new
+class2obj = Class2.new()
+
 class2obj.print_global
