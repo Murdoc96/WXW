@@ -24,3 +24,4 @@ class2obj.print_global()
 
 objeto = Class1.new()
 objeto.printNumber(6)
+objeto.printNumber(5.7)
