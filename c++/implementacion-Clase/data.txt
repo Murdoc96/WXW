@@ -1,0 +1,9 @@
+fisica#no es lo mismo que la ciencia física. La física es una rama de las ciencias naturales que se encarga de estudiar la materia (los cuerpos) y sumovimiento a través del espacio y tiempo, así como también su relación con la energía y la fuerza con la finalidad de entender cómo se comporta el universo y suambiente. Analiza las transformaciones o fenómenos físicos y está estrechamente relacionada con las demás ramas de las ciencias naturales.
+quimica#estudia la materia y los cambios que sufre a nivel atómico y molecular. La física también está encargada de estudiar la materia pero con un enfoque, objetivo y tema diferente, además, en cuanto a sus rangos y métodos, poseen roles diferentes.
+geologia#se encarga de estudiar el planeta Tierra y todo los que lo compone, procesos que se producen en el interior de la tierra, en las rocas, atmósfera, corteza terrestre, etc.
+ecologia#se dedica al estudio de las relaciones que tienen los organismos vivos entre ellos y con el ambiente.
+oceonografia#ciencia marina que estudia el océano, entre sus objetos de estudio se encuentran: los organismos marinos, dinámica del ecosistema, olas, placas tectónicas, propiedades de las sustancias químicas que se encuentran en el océano, etc.
+metereologia#se dedica al estudio de la atmósfera, fenómenos atmosféricos y sus efectos sobre el clima. Los meteorólogos utilizan el método científico para observar, explicar y predecir el clima.
+biologia#ciencia que se dedica al estudio de los seres vivos, su estructura, función, crecimiento, origen, evolución, distribución y taxonomía. Contiene muchas ramas, subdivisiones, tópicos y disciplinas.
+zoologia#estudia a los animales y la vida animal, incluyendo su estructura, fisiología, desarrollo, comportamiento y clasificación.
+botanica#estudio científico de las plantas, su estructura, crecimiento, reproducción, metabolismo, desarrollo, enfermedades, propiedades químicas, etc.
